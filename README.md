@@ -26,8 +26,8 @@ Before running the script, ensure you have:
 
 ## Setup API Key
 1. Sign up for an API key at [OpenCage Geocoder](https://opencagedata.com/).
-2. Create a `.env` file in the root directory of the project.
-3. Add your API key to the `.env` file:
+2. Create a plain text file named `.env` in the root directory of the project.
+3. Add your API key to the `.env` file (ensure the file is saved in the root directory of the project):
    ```
    OPENCAGE_API_KEY=your_opencage_api_key_here
    ```

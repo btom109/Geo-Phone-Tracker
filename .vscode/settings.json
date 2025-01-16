@@ -2,5 +2,14 @@
     "workbench.colorCustomizations": {
         "minimap.background": "#00000000",
         "scrollbar.shadow": "#00000000"
-    }
+    },
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        "./backend_trial",
+        "-p",
+        "*test.py"
+    ],
+    "python.testing.pytestEnabled": false,
+    "python.testing.unittestEnabled": true
 }
