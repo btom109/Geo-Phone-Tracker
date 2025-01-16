@@ -35,7 +35,7 @@ Before running the script, ensure you have:
 ## Usage
 Run the script from the command line:
 ```bash
-python GeoTracker.py
+python Geo-Phone-Tracker.py
 ```
 
 ### Steps:
@@ -57,6 +57,9 @@ Let's say you want to locate a phone number `+123456789`:
 4. Finally, it will open Google Maps with directions to the phone number's location.
 
 Enjoy exploring the Phone Number Locator!
+
+## Contributing
+- Customize the GitHub repository URL (`https://github.com/yourusername/GeoTracker.git`) and author information (`CHEGEBB`) as appropriate.
 
 ## Author
 - Created by CHEGEBB
