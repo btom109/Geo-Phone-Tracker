@@ -16,7 +16,7 @@ Before running the script, ensure you have:
 ## Installation
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/CHEGEBB/Geo-Phone-Tracker.git
+   git clone https://github.com/yourusername/Geo-Phone-Tracker.git
    cd Geo-Phone-Tracker
 
 2. Install dependencies using pip:
