@@ -26,8 +26,8 @@ Before running the script, ensure you have:
 
 ## Setup API Key
 1. Sign up for an API key at [OpenCage Geocoder](https://opencagedata.com/).
-2. Create a `.env` file in the root directory of the project.
-3. Add your API key to the `.env` file:
+2. Create a plain text file named `.env` in the root directory of the project.
+3. Add your API key to the `.env` file (ensure the file is saved in the root directory of the project):
    ```
    OPENCAGE_API_KEY=your_opencage_api_key_here
    ```
@@ -35,7 +35,7 @@ Before running the script, ensure you have:
 ## Usage
 Run the script from the command line:
 ```bash
-python GeoTracker.py
+python Geo-Phone-Tracker.py
 ```
 
 ### Steps:
@@ -57,6 +57,9 @@ Let's say you want to locate a phone number `+123456789`:
 4. Finally, it will open Google Maps with directions to the phone number's location.
 
 Enjoy exploring the Phone Number Locator!
+
+## Contributing
+- Customize the GitHub repository URL (`https://github.com/yourusername/GeoTracker.git`) and author information (`CHEGEBB`) as appropriate.
 
 ## Author
 - Created by CHEGEBB
